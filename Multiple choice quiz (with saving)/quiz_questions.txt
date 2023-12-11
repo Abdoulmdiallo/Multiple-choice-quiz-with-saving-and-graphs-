@@ -1,0 +1,10 @@
+1 What is the capital of Australia?
+2 Who is the author of the famous novel "To Kill a Mockingbird"?
+3 How many continents are there in the world?
+4 What is the chemical symbol for gold?
+5 Name three primary colors('use 'commas')
+6 Who painted the Mona Lisa?
+7 What is the largest planet in our solar system?
+8 In which year did Christopher Columbus first arrive in the Americas?
+9 What is the boiling point of water in degrees Celsius?
+10 What is the national flower of Japan?

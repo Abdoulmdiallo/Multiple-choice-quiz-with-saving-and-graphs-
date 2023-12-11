@@ -1,0 +1,6 @@
+diallo 0
+abdoul 0
+abdoul 3
+abdoul 2
+diallo 1
+abdoul 9
